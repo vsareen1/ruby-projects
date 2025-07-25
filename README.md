@@ -5,3 +5,4 @@ Repository to store all projects completed from "The odin project"
 -   Caesar Cypher
 -   Sub Strings
 -   Stock Picker
+-   Bubble Sort
